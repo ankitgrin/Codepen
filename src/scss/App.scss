@@ -1,0 +1,14 @@
+@import "./var";
+
+body {
+  margin: 0;
+}
+
+.top-pane {
+  background-color: $bgColor;
+}
+
+.pane {
+  height: 50vh;
+  display: flex;
+}
